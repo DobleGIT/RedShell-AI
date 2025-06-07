@@ -4,6 +4,8 @@ RedShell-AI is a personal prototype project where I experimented with integratin
 
 You can interact with the assistant either from the **terminal** or via a simple **web interface** (built with Streamlit).
 
+[![Demo de RedShell-AI](https://img.youtube.com/vi/o0WdLFRJ2Cs/0.jpg)](https://youtu.be/o0WdLFRJ2Cs)
+
 ## Features
 
 - Translate natural language instructions into Kali Linux commands using ChatGPT.
