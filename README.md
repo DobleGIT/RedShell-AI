@@ -4,7 +4,8 @@ RedShell-AI is a personal prototype project where I experimented with integratin
 
 You can interact with the assistant either from the **terminal** or via a simple **web interface** (built with Streamlit).
 
-[![Demo de RedShell-AI](https://img.youtube.com/vi/o0WdLFRJ2Cs/0.jpg)](https://youtu.be/o0WdLFRJ2Cs)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o0WdLFRJ2Cs" frameborder="0" allowfullscreen></iframe>
+
 
 ## Features
 
