@@ -1,0 +1,20 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Environment
+.env
+venv/
+
+# Streamlit
+.streamlit/
+
+# Logs and temp files
+*.log
+*.swp
+.DS_Store
+
+# Output
+*.txt
+output/
